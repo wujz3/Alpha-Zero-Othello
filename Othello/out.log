@@ -1,0 +1,2034 @@
+nohup: ignoring input
+begin
+--------------------------------
+Iter   0:
+经验池长度:   1
+训练样本长度:47848
+Checkpoint Directory exists! 
+EPOCH ::: 1
+pi_loss: 3.7740
+v_loss : 1.0268
+EPOCH ::: 2
+pi_loss: 2.9817
+v_loss : 0.8636
+EPOCH ::: 3
+pi_loss: 2.5748
+v_loss : 0.7139
+EPOCH ::: 4
+pi_loss: 2.3963
+v_loss : 0.5880
+EPOCH ::: 5
+pi_loss: 2.2917
+v_loss : 0.4837
+EPOCH ::: 6
+pi_loss: 2.2209
+v_loss : 0.4021
+EPOCH ::: 7
+pi_loss: 2.1668
+v_loss : 0.3448
+EPOCH ::: 8
+pi_loss: 2.1223
+v_loss : 0.2920
+EPOCH ::: 9
+pi_loss: 2.0936
+v_loss : 0.2626
+EPOCH ::: 10
+pi_loss: 2.0680
+v_loss : 0.2376
+开始与之前网络对抗。
+保存新网络
+Checkpoint Directory exists! 
+Checkpoint Directory exists! 
+对抗中新网络的胜场数目：30
+对抗中新网络的胜率：0.750000
+--------------------------------
+--------------------------------
+Iter   1:
+经验池长度:   2
+训练样本长度:96152
+Checkpoint Directory exists! 
+EPOCH ::: 1
+pi_loss: 2.0207
+v_loss : 0.5695
+EPOCH ::: 2
+pi_loss: 1.9516
+v_loss : 0.3982
+EPOCH ::: 3
+pi_loss: 1.9065
+v_loss : 0.3257
+EPOCH ::: 4
+pi_loss: 1.8737
+v_loss : 0.2882
+EPOCH ::: 5
+pi_loss: 1.8376
+v_loss : 0.2656
+EPOCH ::: 6
+pi_loss: 1.8081
+v_loss : 0.2476
+EPOCH ::: 7
+pi_loss: 1.7731
+v_loss : 0.2327
+EPOCH ::: 8
+pi_loss: 1.7375
+v_loss : 0.2241
+EPOCH ::: 9
+pi_loss: 1.7012
+v_loss : 0.2140
+EPOCH ::: 10
+pi_loss: 1.6622
+v_loss : 0.2080
+开始与之前网络对抗。
+新网络胜场不足，不保存，回退到上一次参数
+对抗中新网络的胜场数目：23
+对抗中新网络的胜率：0.575000
+--------------------------------
+--------------------------------
+Iter   2:
+经验池长度:   3
+训练样本长度:144552
+Checkpoint Directory exists! 
+EPOCH ::: 1
+pi_loss: 1.9690
+v_loss : 0.6744
+EPOCH ::: 2
+pi_loss: 1.8771
+v_loss : 0.4895
+EPOCH ::: 3
+pi_loss: 1.8248
+v_loss : 0.3956
+EPOCH ::: 4
+pi_loss: 1.7789
+v_loss : 0.3455
+EPOCH ::: 5
+pi_loss: 1.7335
+v_loss : 0.3146
+EPOCH ::: 6
+pi_loss: 1.6901
+v_loss : 0.2958
+EPOCH ::: 7
+pi_loss: 1.6382
+v_loss : 0.2792
+EPOCH ::: 8
+pi_loss: 1.5855
+v_loss : 0.2670
+EPOCH ::: 9
+pi_loss: 1.5270
+v_loss : 0.2585
+EPOCH ::: 10
+pi_loss: 1.4676
+v_loss : 0.2523
+开始与之前网络对抗。
+保存新网络
+Checkpoint Directory exists! 
+Checkpoint Directory exists! 
+对抗中新网络的胜场数目：30
+对抗中新网络的胜率：0.750000
+--------------------------------
+--------------------------------
+Iter   3:
+经验池长度:   4
+训练样本长度:192960
+Checkpoint Directory exists! 
+EPOCH ::: 1
+pi_loss: 1.5332
+v_loss : 0.3889
+EPOCH ::: 2
+pi_loss: 1.4237
+v_loss : 0.3107
+EPOCH ::: 3
+pi_loss: 1.3410
+v_loss : 0.2882
+EPOCH ::: 4
+pi_loss: 1.2766
+v_loss : 0.2776
+EPOCH ::: 5
+pi_loss: 1.2244
+v_loss : 0.2700
+EPOCH ::: 6
+pi_loss: 1.1878
+v_loss : 0.2665
+EPOCH ::: 7
+pi_loss: 1.1576
+v_loss : 0.2608
+EPOCH ::: 8
+pi_loss: 1.1341
+v_loss : 0.2583
+EPOCH ::: 9
+pi_loss: 1.1157
+v_loss : 0.2567
+EPOCH ::: 10
+pi_loss: 1.0998
+v_loss : 0.2545
+开始与之前网络对抗。
+保存新网络
+Checkpoint Directory exists! 
+Checkpoint Directory exists! 
+对抗中新网络的胜场数目：25
+对抗中新网络的胜率：0.625000
+--------------------------------
+--------------------------------
+Iter   4:
+经验池长度:   5
+训练样本长度:241368
+Checkpoint Directory exists! 
+EPOCH ::: 1
+pi_loss: 1.2486
+v_loss : 0.3629
+EPOCH ::: 2
+pi_loss: 1.1315
+v_loss : 0.2980
+EPOCH ::: 3
+pi_loss: 1.0773
+v_loss : 0.2820
+EPOCH ::: 4
+pi_loss: 1.0446
+v_loss : 0.2757
+EPOCH ::: 5
+pi_loss: 1.0226
+v_loss : 0.2706
+EPOCH ::: 6
+pi_loss: 1.0074
+v_loss : 0.2683
+EPOCH ::: 7
+pi_loss: 0.9925
+v_loss : 0.2654
+EPOCH ::: 8
+pi_loss: 0.9824
+v_loss : 0.2629
+EPOCH ::: 9
+pi_loss: 0.9713
+v_loss : 0.2607
+EPOCH ::: 10
+pi_loss: 0.9641
+v_loss : 0.2604
+开始与之前网络对抗。
+保存新网络
+Checkpoint Directory exists! 
+Checkpoint Directory exists! 
+对抗中新网络的胜场数目：25
+对抗中新网络的胜率：0.625000
+--------------------------------
+--------------------------------
+Iter   5:
+经验池长度:   6
+训练样本长度:289656
+Checkpoint Directory exists! 
+EPOCH ::: 1
+pi_loss: 1.1242
+v_loss : 0.3549
+EPOCH ::: 2
+pi_loss: 1.0255
+v_loss : 0.2916
+EPOCH ::: 3
+pi_loss: 0.9831
+v_loss : 0.2780
+EPOCH ::: 4
+pi_loss: 0.9600
+v_loss : 0.2725
+EPOCH ::: 5
+pi_loss: 0.9421
+v_loss : 0.2689
+EPOCH ::: 6
+pi_loss: 0.9297
+v_loss : 0.2667
+EPOCH ::: 7
+pi_loss: 0.9198
+v_loss : 0.2656
+EPOCH ::: 8
+pi_loss: 0.9128
+v_loss : 0.2629
+EPOCH ::: 9
+pi_loss: 0.9053
+v_loss : 0.2622
+EPOCH ::: 10
+pi_loss: 0.8994
+v_loss : 0.2602
+开始与之前网络对抗。
+保存新网络
+Checkpoint Directory exists! 
+Checkpoint Directory exists! 
+对抗中新网络的胜场数目：26
+对抗中新网络的胜率：0.650000
+--------------------------------
+--------------------------------
+Iter   6:
+经验池长度:   7
+训练样本长度:338088
+Checkpoint Directory exists! 
+EPOCH ::: 1
+pi_loss: 1.0469
+v_loss : 0.3355
+EPOCH ::: 2
+pi_loss: 0.9422
+v_loss : 0.2861
+EPOCH ::: 3
+pi_loss: 0.9051
+v_loss : 0.2724
+EPOCH ::: 4
+pi_loss: 0.8865
+v_loss : 0.2677
+EPOCH ::: 5
+pi_loss: 0.8734
+v_loss : 0.2634
+EPOCH ::: 6
+pi_loss: 0.8653
+v_loss : 0.2628
+EPOCH ::: 7
+pi_loss: 0.8577
+v_loss : 0.2606
+EPOCH ::: 8
+pi_loss: 0.8525
+v_loss : 0.2606
+EPOCH ::: 9
+pi_loss: 0.8473
+v_loss : 0.2592
+EPOCH ::: 10
+pi_loss: 0.8422
+v_loss : 0.2578
+开始与之前网络对抗。
+新网络胜场不足，不保存，回退到上一次参数
+对抗中新网络的胜场数目：23
+对抗中新网络的胜率：0.575000
+--------------------------------
+--------------------------------
+Iter   7:
+经验池长度:   8
+训练样本长度:386720
+Checkpoint Directory exists! 
+EPOCH ::: 1
+pi_loss: 1.1356
+v_loss : 0.3991
+EPOCH ::: 2
+pi_loss: 0.9909
+v_loss : 0.3150
+EPOCH ::: 3
+pi_loss: 0.9261
+v_loss : 0.2945
+EPOCH ::: 4
+pi_loss: 0.8926
+v_loss : 0.2858
+EPOCH ::: 5
+pi_loss: 0.8726
+v_loss : 0.2815
+EPOCH ::: 6
+pi_loss: 0.8586
+v_loss : 0.2777
+EPOCH ::: 7
+pi_loss: 0.8483
+v_loss : 0.2744
+EPOCH ::: 8
+pi_loss: 0.8405
+v_loss : 0.2736
+EPOCH ::: 9
+pi_loss: 0.8333
+v_loss : 0.2716
+EPOCH ::: 10
+pi_loss: 0.8275
+v_loss : 0.2704
+开始与之前网络对抗。
+新网络胜场不足，不保存，回退到上一次参数
+对抗中新网络的胜场数目：20
+对抗中新网络的胜率：0.500000
+--------------------------------
+--------------------------------
+Iter   8:
+经验池长度:   9
+训练样本长度:435120
+Checkpoint Directory exists! 
+EPOCH ::: 1
+pi_loss: 1.1943
+v_loss : 0.4521
+EPOCH ::: 2
+pi_loss: 1.0301
+v_loss : 0.3420
+EPOCH ::: 3
+pi_loss: 0.9458
+v_loss : 0.3145
+EPOCH ::: 4
+pi_loss: 0.9004
+v_loss : 0.3043
+EPOCH ::: 5
+pi_loss: 0.8723
+v_loss : 0.2980
+EPOCH ::: 6
+pi_loss: 0.8554
+v_loss : 0.2927
+EPOCH ::: 7
+pi_loss: 0.8419
+v_loss : 0.2903
+EPOCH ::: 8
+pi_loss: 0.8306
+v_loss : 0.2877
+EPOCH ::: 9
+pi_loss: 0.8228
+v_loss : 0.2856
+EPOCH ::: 10
+pi_loss: 0.8159
+v_loss : 0.2839
+开始与之前网络对抗。
+新网络胜场不足，不保存，回退到上一次参数
+对抗中新网络的胜场数目：15
+对抗中新网络的胜率：0.375000
+--------------------------------
+--------------------------------
+Iter   9:
+经验池长度:  10
+训练样本长度:483632
+Checkpoint Directory exists! 
+EPOCH ::: 1
+pi_loss: 1.2358
+v_loss : 0.4928
+EPOCH ::: 2
+pi_loss: 1.0586
+v_loss : 0.3690
+EPOCH ::: 3
+pi_loss: 0.9622
+v_loss : 0.3339
+EPOCH ::: 4
+pi_loss: 0.9071
+v_loss : 0.3207
+EPOCH ::: 5
+pi_loss: 0.8742
+v_loss : 0.3126
+EPOCH ::: 6
+pi_loss: 0.8520
+v_loss : 0.3067
+EPOCH ::: 7
+pi_loss: 0.8377
+v_loss : 0.3038
+EPOCH ::: 8
+pi_loss: 0.8247
+v_loss : 0.3005
+EPOCH ::: 9
+pi_loss: 0.8145
+v_loss : 0.2978
+EPOCH ::: 10
+pi_loss: 0.8060
+v_loss : 0.2961
+开始与之前网络对抗。
+保存新网络
+Checkpoint Directory exists! 
+Checkpoint Directory exists! 
+对抗中新网络的胜场数目：31
+对抗中新网络的胜率：0.775000
+--------------------------------
+--------------------------------
+Iter  10:
+经验池长度:  11
+训练样本长度:532072
+Checkpoint Directory exists! 
+EPOCH ::: 1
+pi_loss: 0.9129
+v_loss : 0.3434
+EPOCH ::: 2
+pi_loss: 0.8353
+v_loss : 0.3091
+EPOCH ::: 3
+pi_loss: 0.8108
+v_loss : 0.3000
+EPOCH ::: 4
+pi_loss: 0.7976
+v_loss : 0.2962
+EPOCH ::: 5
+pi_loss: 0.7876
+v_loss : 0.2933
+EPOCH ::: 6
+pi_loss: 0.7797
+v_loss : 0.2919
+EPOCH ::: 7
+pi_loss: 0.7736
+v_loss : 0.2899
+EPOCH ::: 8
+pi_loss: 0.7686
+v_loss : 0.2891
+EPOCH ::: 9
+pi_loss: 0.7638
+v_loss : 0.2885
+EPOCH ::: 10
+pi_loss: 0.7594
+v_loss : 0.2869
+开始与之前网络对抗。
+保存新网络
+Checkpoint Directory exists! 
+Checkpoint Directory exists! 
+对抗中新网络的胜场数目：29
+对抗中新网络的胜率：0.725000
+--------------------------------
+--------------------------------
+Iter  11:
+经验池长度:  12
+训练样本长度:580432
+Checkpoint Directory exists! 
+EPOCH ::: 1
+pi_loss: 0.8613
+v_loss : 0.3407
+EPOCH ::: 2
+pi_loss: 0.7941
+v_loss : 0.3047
+EPOCH ::: 3
+pi_loss: 0.7735
+v_loss : 0.2958
+EPOCH ::: 4
+pi_loss: 0.7624
+v_loss : 0.2921
+EPOCH ::: 5
+pi_loss: 0.7546
+v_loss : 0.2901
+EPOCH ::: 6
+pi_loss: 0.7489
+v_loss : 0.2881
+EPOCH ::: 7
+pi_loss: 0.7446
+v_loss : 0.2871
+EPOCH ::: 8
+pi_loss: 0.7400
+v_loss : 0.2859
+EPOCH ::: 9
+pi_loss: 0.7367
+v_loss : 0.2851
+EPOCH ::: 10
+pi_loss: 0.7334
+v_loss : 0.2841
+开始与之前网络对抗。
+保存新网络
+Checkpoint Directory exists! 
+Checkpoint Directory exists! 
+对抗中新网络的胜场数目：25
+对抗中新网络的胜率：0.625000
+--------------------------------
+--------------------------------
+Iter  12:
+经验池长度:  13
+训练样本长度:628936
+Checkpoint Directory exists! 
+EPOCH ::: 1
+pi_loss: 0.8284
+v_loss : 0.3300
+EPOCH ::: 2
+pi_loss: 0.7668
+v_loss : 0.2992
+EPOCH ::: 3
+pi_loss: 0.7476
+v_loss : 0.2911
+EPOCH ::: 4
+pi_loss: 0.7390
+v_loss : 0.2879
+EPOCH ::: 5
+pi_loss: 0.7330
+v_loss : 0.2859
+EPOCH ::: 6
+pi_loss: 0.7280
+v_loss : 0.2849
+EPOCH ::: 7
+pi_loss: 0.7242
+v_loss : 0.2839
+EPOCH ::: 8
+pi_loss: 0.7214
+v_loss : 0.2833
+EPOCH ::: 9
+pi_loss: 0.7179
+v_loss : 0.2821
+EPOCH ::: 10
+pi_loss: 0.7160
+v_loss : 0.2818
+开始与之前网络对抗。
+保存新网络
+Checkpoint Directory exists! 
+Checkpoint Directory exists! 
+对抗中新网络的胜场数目：32
+对抗中新网络的胜率：0.800000
+--------------------------------
+--------------------------------
+Iter  13:
+经验池长度:  14
+训练样本长度:677440
+Checkpoint Directory exists! 
+EPOCH ::: 1
+pi_loss: 0.8115
+v_loss : 0.3302
+EPOCH ::: 2
+pi_loss: 0.7543
+v_loss : 0.2975
+EPOCH ::: 3
+pi_loss: 0.7347
+v_loss : 0.2889
+EPOCH ::: 4
+pi_loss: 0.7249
+v_loss : 0.2851
+EPOCH ::: 5
+pi_loss: 0.7189
+v_loss : 0.2822
+EPOCH ::: 6
+pi_loss: 0.7145
+v_loss : 0.2819
+EPOCH ::: 7
+pi_loss: 0.7111
+v_loss : 0.2807
+EPOCH ::: 8
+pi_loss: 0.7086
+v_loss : 0.2798
+EPOCH ::: 9
+pi_loss: 0.7060
+v_loss : 0.2795
+EPOCH ::: 10
+pi_loss: 0.7034
+v_loss : 0.2788
+开始与之前网络对抗。
+新网络胜场不足，不保存，回退到上一次参数
+对抗中新网络的胜场数目：20
+对抗中新网络的胜率：0.500000
+--------------------------------
+--------------------------------
+Iter  14:
+经验池长度:  15
+训练样本长度:725984
+Checkpoint Directory exists! 
+EPOCH ::: 1
+pi_loss: 0.8809
+v_loss : 0.3661
+EPOCH ::: 2
+pi_loss: 0.7933
+v_loss : 0.3120
+EPOCH ::: 3
+pi_loss: 0.7563
+v_loss : 0.2979
+EPOCH ::: 4
+pi_loss: 0.7394
+v_loss : 0.2924
+EPOCH ::: 5
+pi_loss: 0.7296
+v_loss : 0.2890
+EPOCH ::: 6
+pi_loss: 0.7228
+v_loss : 0.2870
+EPOCH ::: 7
+pi_loss: 0.7176
+v_loss : 0.2852
+EPOCH ::: 8
+pi_loss: 0.7136
+v_loss : 0.2838
+EPOCH ::: 9
+pi_loss: 0.7100
+v_loss : 0.2826
+EPOCH ::: 10
+pi_loss: 0.7071
+v_loss : 0.2821
+开始与之前网络对抗。
+保存新网络
+Checkpoint Directory exists! 
+Checkpoint Directory exists! 
+对抗中新网络的胜场数目：27
+对抗中新网络的胜率：0.675000
+--------------------------------
+--------------------------------
+Iter  15:
+经验池长度:  16
+训练样本长度:774160
+Checkpoint Directory exists! 
+EPOCH ::: 1
+pi_loss: 0.7788
+v_loss : 0.3158
+EPOCH ::: 2
+pi_loss: 0.7296
+v_loss : 0.2946
+EPOCH ::: 3
+pi_loss: 0.7140
+v_loss : 0.2878
+EPOCH ::: 4
+pi_loss: 0.7060
+v_loss : 0.2850
+EPOCH ::: 5
+pi_loss: 0.7011
+v_loss : 0.2837
+EPOCH ::: 6
+pi_loss: 0.6972
+v_loss : 0.2819
+EPOCH ::: 7
+pi_loss: 0.6942
+v_loss : 0.2813
+EPOCH ::: 8
+pi_loss: 0.6912
+v_loss : 0.2808
+EPOCH ::: 9
+pi_loss: 0.6896
+v_loss : 0.2799
+EPOCH ::: 10
+pi_loss: 0.6873
+v_loss : 0.2795
+开始与之前网络对抗。
+新网络胜场不足，不保存，回退到上一次参数
+对抗中新网络的胜场数目：22
+对抗中新网络的胜率：0.550000
+--------------------------------
+--------------------------------
+Iter  16:
+经验池长度:  17
+训练样本长度:822688
+Checkpoint Directory exists! 
+EPOCH ::: 1
+pi_loss: 0.8319
+v_loss : 0.3515
+EPOCH ::: 2
+pi_loss: 0.7557
+v_loss : 0.3107
+EPOCH ::: 3
+pi_loss: 0.7262
+v_loss : 0.2999
+EPOCH ::: 4
+pi_loss: 0.7123
+v_loss : 0.2951
+EPOCH ::: 5
+pi_loss: 0.7050
+v_loss : 0.2926
+EPOCH ::: 6
+pi_loss: 0.6994
+v_loss : 0.2907
+EPOCH ::: 7
+pi_loss: 0.6949
+v_loss : 0.2895
+EPOCH ::: 8
+pi_loss: 0.6917
+v_loss : 0.2888
+EPOCH ::: 9
+pi_loss: 0.6885
+v_loss : 0.2875
+EPOCH ::: 10
+pi_loss: 0.6860
+v_loss : 0.2868
+开始与之前网络对抗。
+新网络胜场不足，不保存，回退到上一次参数
+对抗中新网络的胜场数目：22
+对抗中新网络的胜率：0.550000
+--------------------------------
+--------------------------------
+Iter  17:
+经验池长度:  18
+训练样本长度:871280
+Checkpoint Directory exists! 
+EPOCH ::: 1
+pi_loss: 0.8768
+v_loss : 0.3761
+EPOCH ::: 2
+pi_loss: 0.7806
+v_loss : 0.3218
+EPOCH ::: 3
+pi_loss: 0.7391
+v_loss : 0.3082
+EPOCH ::: 4
+pi_loss: 0.7200
+v_loss : 0.3022
+EPOCH ::: 5
+pi_loss: 0.7092
+v_loss : 0.2987
+EPOCH ::: 6
+pi_loss: 0.7022
+v_loss : 0.2965
+EPOCH ::: 7
+pi_loss: 0.6963
+v_loss : 0.2948
+EPOCH ::: 8
+pi_loss: 0.6921
+v_loss : 0.2932
+EPOCH ::: 9
+pi_loss: 0.6881
+v_loss : 0.2922
+EPOCH ::: 10
+pi_loss: 0.6857
+v_loss : 0.2906
+开始与之前网络对抗。
+保存新网络
+Checkpoint Directory exists! 
+Checkpoint Directory exists! 
+对抗中新网络的胜场数目：25
+对抗中新网络的胜率：0.625000
+--------------------------------
+--------------------------------
+Iter  18:
+经验池长度:  19
+训练样本长度:919760
+Checkpoint Directory exists! 
+EPOCH ::: 1
+pi_loss: 0.7437
+v_loss : 0.3219
+EPOCH ::: 2
+pi_loss: 0.7032
+v_loss : 0.3024
+EPOCH ::: 3
+pi_loss: 0.6905
+v_loss : 0.2968
+EPOCH ::: 4
+pi_loss: 0.6836
+v_loss : 0.2940
+EPOCH ::: 5
+pi_loss: 0.6791
+v_loss : 0.2926
+EPOCH ::: 6
+pi_loss: 0.6758
+v_loss : 0.2917
+EPOCH ::: 7
+pi_loss: 0.6725
+v_loss : 0.2906
+EPOCH ::: 8
+pi_loss: 0.6699
+v_loss : 0.2899
+EPOCH ::: 9
+pi_loss: 0.6676
+v_loss : 0.2889
+EPOCH ::: 10
+pi_loss: 0.6654
+v_loss : 0.2882
+开始与之前网络对抗。
+新网络胜场不足，不保存，回退到上一次参数
+对抗中新网络的胜场数目：15
+对抗中新网络的胜率：0.375000
+--------------------------------
+--------------------------------
+Iter  19:
+经验池长度:  20
+训练样本长度:920392
+Checkpoint Directory exists! 
+EPOCH ::: 1
+pi_loss: 0.7158
+v_loss : 0.3638
+EPOCH ::: 2
+pi_loss: 0.6481
+v_loss : 0.3267
+EPOCH ::: 3
+pi_loss: 0.6221
+v_loss : 0.3166
+EPOCH ::: 4
+pi_loss: 0.6107
+v_loss : 0.3121
+EPOCH ::: 5
+pi_loss: 0.6038
+v_loss : 0.3095
+EPOCH ::: 6
+pi_loss: 0.5990
+v_loss : 0.3078
+EPOCH ::: 7
+pi_loss: 0.5951
+v_loss : 0.3064
+EPOCH ::: 8
+pi_loss: 0.5915
+v_loss : 0.3050
+EPOCH ::: 9
+pi_loss: 0.5891
+v_loss : 0.3045
+EPOCH ::: 10
+pi_loss: 0.5864
+v_loss : 0.3033
+开始与之前网络对抗。
+保存新网络
+Checkpoint Directory exists! 
+Checkpoint Directory exists! 
+对抗中新网络的胜场数目：25
+对抗中新网络的胜率：0.625000
+--------------------------------
+--------------------------------
+Iter  20:
+经验池长度:  20
+训练样本长度:920592
+Checkpoint Directory exists! 
+EPOCH ::: 1
+pi_loss: 0.6579
+v_loss : 0.3363
+EPOCH ::: 2
+pi_loss: 0.6122
+v_loss : 0.3144
+EPOCH ::: 3
+pi_loss: 0.5963
+v_loss : 0.3081
+EPOCH ::: 4
+pi_loss: 0.5892
+v_loss : 0.3053
+EPOCH ::: 5
+pi_loss: 0.5855
+v_loss : 0.3033
+EPOCH ::: 6
+pi_loss: 0.5816
+v_loss : 0.3024
+EPOCH ::: 7
+pi_loss: 0.5790
+v_loss : 0.3013
+EPOCH ::: 8
+pi_loss: 0.5768
+v_loss : 0.3013
+EPOCH ::: 9
+pi_loss: 0.5749
+v_loss : 0.2999
+EPOCH ::: 10
+pi_loss: 0.5731
+v_loss : 0.2994
+开始与之前网络对抗。
+新网络胜场不足，不保存，回退到上一次参数
+对抗中新网络的胜场数目：19
+对抗中新网络的胜率：0.475000
+--------------------------------
+--------------------------------
+Iter  21:
+经验池长度:  20
+训练样本长度:920648
+Checkpoint Directory exists! 
+EPOCH ::: 1
+pi_loss: 0.7142
+v_loss : 0.3709
+EPOCH ::: 2
+pi_loss: 0.6390
+v_loss : 0.3298
+EPOCH ::: 3
+pi_loss: 0.6090
+v_loss : 0.3183
+EPOCH ::: 4
+pi_loss: 0.5959
+v_loss : 0.3130
+EPOCH ::: 5
+pi_loss: 0.5889
+v_loss : 0.3106
+EPOCH ::: 6
+pi_loss: 0.5835
+v_loss : 0.3092
+EPOCH ::: 7
+pi_loss: 0.5795
+v_loss : 0.3077
+EPOCH ::: 8
+pi_loss: 0.5766
+v_loss : 0.3065
+EPOCH ::: 9
+pi_loss: 0.5739
+v_loss : 0.3063
+EPOCH ::: 10
+pi_loss: 0.5715
+v_loss : 0.3048
+开始与之前网络对抗。
+保存新网络
+Checkpoint Directory exists! 
+Checkpoint Directory exists! 
+对抗中新网络的胜场数目：32
+对抗中新网络的胜率：0.800000
+--------------------------------
+--------------------------------
+Iter  22:
+经验池长度:  20
+训练样本长度:920712
+Checkpoint Directory exists! 
+EPOCH ::: 1
+pi_loss: 0.6403
+v_loss : 0.3371
+EPOCH ::: 2
+pi_loss: 0.5972
+v_loss : 0.3154
+EPOCH ::: 3
+pi_loss: 0.5829
+v_loss : 0.3093
+EPOCH ::: 4
+pi_loss: 0.5757
+v_loss : 0.3060
+EPOCH ::: 5
+pi_loss: 0.5717
+v_loss : 0.3041
+EPOCH ::: 6
+pi_loss: 0.5684
+v_loss : 0.3030
+EPOCH ::: 7
+pi_loss: 0.5661
+v_loss : 0.3021
+EPOCH ::: 8
+pi_loss: 0.5637
+v_loss : 0.3011
+EPOCH ::: 9
+pi_loss: 0.5617
+v_loss : 0.3000
+EPOCH ::: 10
+pi_loss: 0.5599
+v_loss : 0.2993
+开始与之前网络对抗。
+新网络胜场不足，不保存，回退到上一次参数
+对抗中新网络的胜场数目：19
+对抗中新网络的胜率：0.475000
+--------------------------------
+--------------------------------
+Iter  23:
+经验池长度:  20
+训练样本长度:920880
+Checkpoint Directory exists! 
+EPOCH ::: 1
+pi_loss: 0.6999
+v_loss : 0.3723
+EPOCH ::: 2
+pi_loss: 0.6295
+v_loss : 0.3302
+EPOCH ::: 3
+pi_loss: 0.6012
+v_loss : 0.3191
+EPOCH ::: 4
+pi_loss: 0.5887
+v_loss : 0.3138
+EPOCH ::: 5
+pi_loss: 0.5811
+v_loss : 0.3104
+EPOCH ::: 6
+pi_loss: 0.5768
+v_loss : 0.3091
+EPOCH ::: 7
+pi_loss: 0.5728
+v_loss : 0.3073
+EPOCH ::: 8
+pi_loss: 0.5695
+v_loss : 0.3061
+EPOCH ::: 9
+pi_loss: 0.5671
+v_loss : 0.3054
+EPOCH ::: 10
+pi_loss: 0.5647
+v_loss : 0.3046
+开始与之前网络对抗。
+保存新网络
+Checkpoint Directory exists! 
+Checkpoint Directory exists! 
+对抗中新网络的胜场数目：25
+对抗中新网络的胜率：0.625000
+--------------------------------
+--------------------------------
+Iter  24:
+经验池长度:  20
+训练样本长度:921048
+Checkpoint Directory exists! 
+EPOCH ::: 1
+pi_loss: 0.6241
+v_loss : 0.3371
+EPOCH ::: 2
+pi_loss: 0.5840
+v_loss : 0.3186
+EPOCH ::: 3
+pi_loss: 0.5705
+v_loss : 0.3130
+EPOCH ::: 4
+pi_loss: 0.5644
+v_loss : 0.3101
+EPOCH ::: 5
+pi_loss: 0.5609
+v_loss : 0.3085
+EPOCH ::: 6
+pi_loss: 0.5581
+v_loss : 0.3074
+EPOCH ::: 7
+pi_loss: 0.5559
+v_loss : 0.3066
+EPOCH ::: 8
+pi_loss: 0.5538
+v_loss : 0.3061
+EPOCH ::: 9
+pi_loss: 0.5516
+v_loss : 0.3053
+EPOCH ::: 10
+pi_loss: 0.5505
+v_loss : 0.3044
+开始与之前网络对抗。
+新网络胜场不足，不保存，回退到上一次参数
+对抗中新网络的胜场数目：20
+对抗中新网络的胜率：0.500000
+--------------------------------
+--------------------------------
+Iter  25:
+经验池长度:  20
+训练样本长度:921056
+Checkpoint Directory exists! 
+EPOCH ::: 1
+pi_loss: 0.6799
+v_loss : 0.3692
+EPOCH ::: 2
+pi_loss: 0.6138
+v_loss : 0.3329
+EPOCH ::: 3
+pi_loss: 0.5882
+v_loss : 0.3219
+EPOCH ::: 4
+pi_loss: 0.5770
+v_loss : 0.3169
+EPOCH ::: 5
+pi_loss: 0.5700
+v_loss : 0.3141
+EPOCH ::: 6
+pi_loss: 0.5664
+v_loss : 0.3124
+EPOCH ::: 7
+pi_loss: 0.5627
+v_loss : 0.3107
+EPOCH ::: 8
+pi_loss: 0.5601
+v_loss : 0.3094
+EPOCH ::: 9
+pi_loss: 0.5577
+v_loss : 0.3089
+EPOCH ::: 10
+pi_loss: 0.5551
+v_loss : 0.3077
+开始与之前网络对抗。
+新网络胜场不足，不保存，回退到上一次参数
+对抗中新网络的胜场数目：18
+对抗中新网络的胜率：0.450000
+--------------------------------
+--------------------------------
+Iter  26:
+经验池长度:  20
+训练样本长度:920984
+Checkpoint Directory exists! 
+EPOCH ::: 1
+pi_loss: 0.7346
+v_loss : 0.4008
+EPOCH ::: 2
+pi_loss: 0.6449
+v_loss : 0.3471
+EPOCH ::: 3
+pi_loss: 0.6063
+v_loss : 0.3306
+EPOCH ::: 4
+pi_loss: 0.5889
+v_loss : 0.3229
+EPOCH ::: 5
+pi_loss: 0.5797
+v_loss : 0.3192
+EPOCH ::: 6
+pi_loss: 0.5736
+v_loss : 0.3165
+EPOCH ::: 7
+pi_loss: 0.5687
+v_loss : 0.3144
+EPOCH ::: 8
+pi_loss: 0.5658
+v_loss : 0.3131
+EPOCH ::: 9
+pi_loss: 0.5632
+v_loss : 0.3118
+EPOCH ::: 10
+pi_loss: 0.5600
+v_loss : 0.3112
+开始与之前网络对抗。
+新网络胜场不足，不保存，回退到上一次参数
+对抗中新网络的胜场数目：17
+对抗中新网络的胜率：0.425000
+--------------------------------
+--------------------------------
+Iter  27:
+经验池长度:  20
+训练样本长度:921080
+Checkpoint Directory exists! 
+EPOCH ::: 1
+pi_loss: 0.7854
+v_loss : 0.4278
+EPOCH ::: 2
+pi_loss: 0.6770
+v_loss : 0.3580
+EPOCH ::: 3
+pi_loss: 0.6258
+v_loss : 0.3365
+EPOCH ::: 4
+pi_loss: 0.6016
+v_loss : 0.3284
+EPOCH ::: 5
+pi_loss: 0.5893
+v_loss : 0.3231
+EPOCH ::: 6
+pi_loss: 0.5814
+v_loss : 0.3204
+EPOCH ::: 7
+pi_loss: 0.5754
+v_loss : 0.3177
+EPOCH ::: 8
+pi_loss: 0.5714
+v_loss : 0.3161
+EPOCH ::: 9
+pi_loss: 0.5676
+v_loss : 0.3145
+EPOCH ::: 10
+pi_loss: 0.5646
+v_loss : 0.3131
+开始与之前网络对抗。
+保存新网络
+Checkpoint Directory exists! 
+Checkpoint Directory exists! 
+对抗中新网络的胜场数目：30
+对抗中新网络的胜率：0.750000
+--------------------------------
+--------------------------------
+Iter  28:
+经验池长度:  20
+训练样本长度:921176
+Checkpoint Directory exists! 
+EPOCH ::: 1
+pi_loss: 0.6270
+v_loss : 0.3434
+EPOCH ::: 2
+pi_loss: 0.5857
+v_loss : 0.3241
+EPOCH ::: 3
+pi_loss: 0.5721
+v_loss : 0.3183
+EPOCH ::: 4
+pi_loss: 0.5656
+v_loss : 0.3150
+EPOCH ::: 5
+pi_loss: 0.5611
+v_loss : 0.3140
+EPOCH ::: 6
+pi_loss: 0.5580
+v_loss : 0.3126
+EPOCH ::: 7
+pi_loss: 0.5550
+v_loss : 0.3116
+EPOCH ::: 8
+pi_loss: 0.5530
+v_loss : 0.3108
+EPOCH ::: 9
+pi_loss: 0.5510
+v_loss : 0.3101
+EPOCH ::: 10
+pi_loss: 0.5491
+v_loss : 0.3093
+开始与之前网络对抗。
+新网络胜场不足，不保存，回退到上一次参数
+对抗中新网络的胜场数目：19
+对抗中新网络的胜率：0.475000
+--------------------------------
+--------------------------------
+Iter  29:
+经验池长度:  20
+训练样本长度:921304
+Checkpoint Directory exists! 
+EPOCH ::: 1
+pi_loss: 0.6768
+v_loss : 0.3741
+EPOCH ::: 2
+pi_loss: 0.6083
+v_loss : 0.3397
+EPOCH ::: 3
+pi_loss: 0.5818
+v_loss : 0.3292
+EPOCH ::: 4
+pi_loss: 0.5706
+v_loss : 0.3248
+EPOCH ::: 5
+pi_loss: 0.5639
+v_loss : 0.3222
+EPOCH ::: 6
+pi_loss: 0.5591
+v_loss : 0.3201
+EPOCH ::: 7
+pi_loss: 0.5560
+v_loss : 0.3192
+EPOCH ::: 8
+pi_loss: 0.5524
+v_loss : 0.3178
+EPOCH ::: 9
+pi_loss: 0.5504
+v_loss : 0.3165
+EPOCH ::: 10
+pi_loss: 0.5477
+v_loss : 0.3155
+开始与之前网络对抗。
+保存新网络
+Checkpoint Directory exists! 
+Checkpoint Directory exists! 
+对抗中新网络的胜场数目：29
+对抗中新网络的胜率：0.725000
+--------------------------------
+--------------------------------
+Iter  30:
+经验池长度:  20
+训练样本长度:921456
+Checkpoint Directory exists! 
+EPOCH ::: 1
+pi_loss: 0.6146
+v_loss : 0.3469
+EPOCH ::: 2
+pi_loss: 0.5719
+v_loss : 0.3272
+EPOCH ::: 3
+pi_loss: 0.5582
+v_loss : 0.3209
+EPOCH ::: 4
+pi_loss: 0.5517
+v_loss : 0.3176
+EPOCH ::: 5
+pi_loss: 0.5479
+v_loss : 0.3166
+EPOCH ::: 6
+pi_loss: 0.5444
+v_loss : 0.3152
+EPOCH ::: 7
+pi_loss: 0.5426
+v_loss : 0.3142
+EPOCH ::: 8
+pi_loss: 0.5404
+v_loss : 0.3134
+EPOCH ::: 9
+pi_loss: 0.5388
+v_loss : 0.3129
+EPOCH ::: 10
+pi_loss: 0.5372
+v_loss : 0.3120
+开始与之前网络对抗。
+新网络胜场不足，不保存，回退到上一次参数
+对抗中新网络的胜场数目：19
+对抗中新网络的胜率：0.475000
+--------------------------------
+--------------------------------
+Iter  31:
+经验池长度:  20
+训练样本长度:921600
+Checkpoint Directory exists! 
+EPOCH ::: 1
+pi_loss: 0.6746
+v_loss : 0.3776
+EPOCH ::: 2
+pi_loss: 0.6028
+v_loss : 0.3410
+EPOCH ::: 3
+pi_loss: 0.5739
+v_loss : 0.3293
+EPOCH ::: 4
+pi_loss: 0.5608
+v_loss : 0.3243
+EPOCH ::: 5
+pi_loss: 0.5544
+v_loss : 0.3212
+EPOCH ::: 6
+pi_loss: 0.5493
+v_loss : 0.3193
+EPOCH ::: 7
+pi_loss: 0.5464
+v_loss : 0.3179
+EPOCH ::: 8
+pi_loss: 0.5435
+v_loss : 0.3168
+EPOCH ::: 9
+pi_loss: 0.5412
+v_loss : 0.3162
+EPOCH ::: 10
+pi_loss: 0.5387
+v_loss : 0.3148
+开始与之前网络对抗。
+新网络胜场不足，不保存，回退到上一次参数
+对抗中新网络的胜场数目：19
+对抗中新网络的胜率：0.475000
+--------------------------------
+--------------------------------
+Iter  32:
+经验池长度:  20
+训练样本长度:921480
+Checkpoint Directory exists! 
+EPOCH ::: 1
+pi_loss: 0.7287
+v_loss : 0.4089
+EPOCH ::: 2
+pi_loss: 0.6325
+v_loss : 0.3554
+EPOCH ::: 3
+pi_loss: 0.5897
+v_loss : 0.3388
+EPOCH ::: 4
+pi_loss: 0.5710
+v_loss : 0.3313
+EPOCH ::: 5
+pi_loss: 0.5609
+v_loss : 0.3281
+EPOCH ::: 6
+pi_loss: 0.5549
+v_loss : 0.3253
+EPOCH ::: 7
+pi_loss: 0.5498
+v_loss : 0.3228
+EPOCH ::: 8
+pi_loss: 0.5463
+v_loss : 0.3216
+EPOCH ::: 9
+pi_loss: 0.5429
+v_loss : 0.3201
+EPOCH ::: 10
+pi_loss: 0.5406
+v_loss : 0.3191
+开始与之前网络对抗。
+保存新网络
+Checkpoint Directory exists! 
+Checkpoint Directory exists! 
+对抗中新网络的胜场数目：28
+对抗中新网络的胜率：0.700000
+--------------------------------
+--------------------------------
+Iter  33:
+经验池长度:  20
+训练样本长度:921400
+Checkpoint Directory exists! 
+EPOCH ::: 1
+pi_loss: 0.5943
+v_loss : 0.3511
+EPOCH ::: 2
+pi_loss: 0.5558
+v_loss : 0.3343
+EPOCH ::: 3
+pi_loss: 0.5437
+v_loss : 0.3278
+EPOCH ::: 4
+pi_loss: 0.5377
+v_loss : 0.3254
+EPOCH ::: 5
+pi_loss: 0.5342
+v_loss : 0.3237
+EPOCH ::: 6
+pi_loss: 0.5307
+v_loss : 0.3221
+EPOCH ::: 7
+pi_loss: 0.5289
+v_loss : 0.3217
+EPOCH ::: 8
+pi_loss: 0.5271
+v_loss : 0.3206
+EPOCH ::: 9
+pi_loss: 0.5249
+v_loss : 0.3199
+EPOCH ::: 10
+pi_loss: 0.5231
+v_loss : 0.3191
+开始与之前网络对抗。
+新网络胜场不足，不保存，回退到上一次参数
+对抗中新网络的胜场数目：10
+对抗中新网络的胜率：0.250000
+--------------------------------
+--------------------------------
+Iter  34:
+经验池长度:  20
+训练样本长度:921728
+Checkpoint Directory exists! 
+EPOCH ::: 1
+pi_loss: 0.6480
+v_loss : 0.3836
+EPOCH ::: 2
+pi_loss: 0.5831
+v_loss : 0.3493
+EPOCH ::: 3
+pi_loss: 0.5586
+v_loss : 0.3379
+EPOCH ::: 4
+pi_loss: 0.5476
+v_loss : 0.3327
+EPOCH ::: 5
+pi_loss: 0.5407
+v_loss : 0.3300
+EPOCH ::: 6
+pi_loss: 0.5370
+v_loss : 0.3278
+EPOCH ::: 7
+pi_loss: 0.5333
+v_loss : 0.3263
+EPOCH ::: 8
+pi_loss: 0.5311
+v_loss : 0.3252
+EPOCH ::: 9
+pi_loss: 0.5286
+v_loss : 0.3241
+EPOCH ::: 10
+pi_loss: 0.5266
+v_loss : 0.3231
+开始与之前网络对抗。
+新网络胜场不足，不保存，回退到上一次参数
+对抗中新网络的胜场数目：17
+对抗中新网络的胜率：0.425000
+--------------------------------
+--------------------------------
+Iter  35:
+经验池长度:  20
+训练样本长度:921632
+Checkpoint Directory exists! 
+EPOCH ::: 1
+pi_loss: 0.6962
+v_loss : 0.4140
+EPOCH ::: 2
+pi_loss: 0.6104
+v_loss : 0.3619
+EPOCH ::: 3
+pi_loss: 0.5726
+v_loss : 0.3456
+EPOCH ::: 4
+pi_loss: 0.5563
+v_loss : 0.3391
+EPOCH ::: 5
+pi_loss: 0.5477
+v_loss : 0.3346
+EPOCH ::: 6
+pi_loss: 0.5413
+v_loss : 0.3319
+EPOCH ::: 7
+pi_loss: 0.5377
+v_loss : 0.3303
+EPOCH ::: 8
+pi_loss: 0.5339
+v_loss : 0.3286
+EPOCH ::: 9
+pi_loss: 0.5309
+v_loss : 0.3272
+EPOCH ::: 10
+pi_loss: 0.5288
+v_loss : 0.3266
+开始与之前网络对抗。
+保存新网络
+Checkpoint Directory exists! 
+Checkpoint Directory exists! 
+对抗中新网络的胜场数目：26
+对抗中新网络的胜率：0.650000
+--------------------------------
+--------------------------------
+Iter  36:
+经验池长度:  20
+训练样本长度:921600
+Checkpoint Directory exists! 
+EPOCH ::: 1
+pi_loss: 0.5931
+v_loss : 0.3564
+EPOCH ::: 2
+pi_loss: 0.5519
+v_loss : 0.3365
+EPOCH ::: 3
+pi_loss: 0.5375
+v_loss : 0.3304
+EPOCH ::: 4
+pi_loss: 0.5319
+v_loss : 0.3270
+EPOCH ::: 5
+pi_loss: 0.5271
+v_loss : 0.3254
+EPOCH ::: 6
+pi_loss: 0.5244
+v_loss : 0.3248
+EPOCH ::: 7
+pi_loss: 0.5222
+v_loss : 0.3233
+EPOCH ::: 8
+pi_loss: 0.5202
+v_loss : 0.3226
+EPOCH ::: 9
+pi_loss: 0.5180
+v_loss : 0.3221
+EPOCH ::: 10
+pi_loss: 0.5167
+v_loss : 0.3209
+开始与之前网络对抗。
+新网络胜场不足，不保存，回退到上一次参数
+对抗中新网络的胜场数目：23
+对抗中新网络的胜率：0.575000
+--------------------------------
+--------------------------------
+Iter  37:
+经验池长度:  20
+训练样本长度:921648
+Checkpoint Directory exists! 
+EPOCH ::: 1
+pi_loss: 0.6443
+v_loss : 0.3840
+EPOCH ::: 2
+pi_loss: 0.5765
+v_loss : 0.3495
+EPOCH ::: 3
+pi_loss: 0.5507
+v_loss : 0.3381
+EPOCH ::: 4
+pi_loss: 0.5396
+v_loss : 0.3337
+EPOCH ::: 5
+pi_loss: 0.5329
+v_loss : 0.3304
+EPOCH ::: 6
+pi_loss: 0.5284
+v_loss : 0.3295
+EPOCH ::: 7
+pi_loss: 0.5254
+v_loss : 0.3275
+EPOCH ::: 8
+pi_loss: 0.5225
+v_loss : 0.3262
+EPOCH ::: 9
+pi_loss: 0.5201
+v_loss : 0.3247
+EPOCH ::: 10
+pi_loss: 0.5180
+v_loss : 0.3239
+开始与之前网络对抗。
+新网络胜场不足，不保存，回退到上一次参数
+对抗中新网络的胜场数目：17
+对抗中新网络的胜率：0.425000
+--------------------------------
+--------------------------------
+Iter  38:
+经验池长度:  20
+训练样本长度:921704
+Checkpoint Directory exists! 
+EPOCH ::: 1
+pi_loss: 0.6914
+v_loss : 0.4109
+EPOCH ::: 2
+pi_loss: 0.6018
+v_loss : 0.3630
+EPOCH ::: 3
+pi_loss: 0.5635
+v_loss : 0.3479
+EPOCH ::: 4
+pi_loss: 0.5468
+v_loss : 0.3417
+EPOCH ::: 5
+pi_loss: 0.5379
+v_loss : 0.3384
+EPOCH ::: 6
+pi_loss: 0.5320
+v_loss : 0.3361
+EPOCH ::: 7
+pi_loss: 0.5275
+v_loss : 0.3336
+EPOCH ::: 8
+pi_loss: 0.5246
+v_loss : 0.3326
+EPOCH ::: 9
+pi_loss: 0.5217
+v_loss : 0.3315
+EPOCH ::: 10
+pi_loss: 0.5190
+v_loss : 0.3302
+开始与之前网络对抗。
+新网络胜场不足，不保存，回退到上一次参数
+对抗中新网络的胜场数目：19
+对抗中新网络的胜率：0.475000
+--------------------------------
+--------------------------------
+Iter  39:
+经验池长度:  20
+训练样本长度:921616
+Checkpoint Directory exists! 
+EPOCH ::: 1
+pi_loss: 0.7378
+v_loss : 0.4383
+EPOCH ::: 2
+pi_loss: 0.6264
+v_loss : 0.3775
+EPOCH ::: 3
+pi_loss: 0.5766
+v_loss : 0.3587
+EPOCH ::: 4
+pi_loss: 0.5543
+v_loss : 0.3502
+EPOCH ::: 5
+pi_loss: 0.5430
+v_loss : 0.3455
+EPOCH ::: 6
+pi_loss: 0.5349
+v_loss : 0.3419
+EPOCH ::: 7
+pi_loss: 0.5302
+v_loss : 0.3404
+EPOCH ::: 8
+pi_loss: 0.5261
+v_loss : 0.3384
+EPOCH ::: 9
+pi_loss: 0.5224
+v_loss : 0.3370
+EPOCH ::: 10
+pi_loss: 0.5202
+v_loss : 0.3357
+开始与之前网络对抗。
+新网络胜场不足，不保存，回退到上一次参数
+对抗中新网络的胜场数目：17
+对抗中新网络的胜率：0.425000
+--------------------------------
+--------------------------------
+Iter  40:
+经验池长度:  20
+训练样本长度:921672
+Checkpoint Directory exists! 
+EPOCH ::: 1
+pi_loss: 0.7800
+v_loss : 0.4693
+EPOCH ::: 2
+pi_loss: 0.6531
+v_loss : 0.3940
+EPOCH ::: 3
+pi_loss: 0.5912
+v_loss : 0.3704
+EPOCH ::: 4
+pi_loss: 0.5620
+v_loss : 0.3603
+EPOCH ::: 5
+pi_loss: 0.5475
+v_loss : 0.3546
+EPOCH ::: 6
+pi_loss: 0.5380
+v_loss : 0.3507
+EPOCH ::: 7
+pi_loss: 0.5322
+v_loss : 0.3482
+EPOCH ::: 8
+pi_loss: 0.5265
+v_loss : 0.3461
+EPOCH ::: 9
+pi_loss: 0.5230
+v_loss : 0.3446
+EPOCH ::: 10
+pi_loss: 0.5199
+v_loss : 0.3435
+开始与之前网络对抗。
+保存新网络
+Checkpoint Directory exists! 
+Checkpoint Directory exists! 
+对抗中新网络的胜场数目：26
+对抗中新网络的胜率：0.650000
+--------------------------------
+--------------------------------
+Iter  41:
+经验池长度:  20
+训练样本长度:921824
+Checkpoint Directory exists! 
+EPOCH ::: 1
+pi_loss: 0.5829
+v_loss : 0.3789
+EPOCH ::: 2
+pi_loss: 0.5411
+v_loss : 0.3570
+EPOCH ::: 3
+pi_loss: 0.5274
+v_loss : 0.3493
+EPOCH ::: 4
+pi_loss: 0.5209
+v_loss : 0.3454
+EPOCH ::: 5
+pi_loss: 0.5164
+v_loss : 0.3429
+EPOCH ::: 6
+pi_loss: 0.5138
+v_loss : 0.3405
+EPOCH ::: 7
+pi_loss: 0.5110
+v_loss : 0.3395
+EPOCH ::: 8
+pi_loss: 0.5089
+v_loss : 0.3388
+EPOCH ::: 9
+pi_loss: 0.5070
+v_loss : 0.3379
+EPOCH ::: 10
+pi_loss: 0.5052
+v_loss : 0.3369
+开始与之前网络对抗。
+新网络胜场不足，不保存，回退到上一次参数
+对抗中新网络的胜场数目：22
+对抗中新网络的胜率：0.550000
+--------------------------------
+--------------------------------
+Iter  42:
+经验池长度:  20
+训练样本长度:921776
+Checkpoint Directory exists! 
+EPOCH ::: 1
+pi_loss: 0.6362
+v_loss : 0.4079
+EPOCH ::: 2
+pi_loss: 0.5674
+v_loss : 0.3673
+EPOCH ::: 3
+pi_loss: 0.5397
+v_loss : 0.3548
+EPOCH ::: 4
+pi_loss: 0.5290
+v_loss : 0.3492
+EPOCH ::: 5
+pi_loss: 0.5218
+v_loss : 0.3456
+EPOCH ::: 6
+pi_loss: 0.5172
+v_loss : 0.3431
+EPOCH ::: 7
+pi_loss: 0.5134
+v_loss : 0.3417
+EPOCH ::: 8
+pi_loss: 0.5105
+v_loss : 0.3402
+EPOCH ::: 9
+pi_loss: 0.5081
+v_loss : 0.3393
+EPOCH ::: 10
+pi_loss: 0.5059
+v_loss : 0.3391
+开始与之前网络对抗。
+新网络胜场不足，不保存，回退到上一次参数
+对抗中新网络的胜场数目：23
+对抗中新网络的胜率：0.575000
+--------------------------------
+--------------------------------
+Iter  43:
+经验池长度:  20
+训练样本长度:921896
+Checkpoint Directory exists! 
+EPOCH ::: 1
+pi_loss: 0.6861
+v_loss : 0.4365
+EPOCH ::: 2
+pi_loss: 0.5946
+v_loss : 0.3799
+EPOCH ::: 3
+pi_loss: 0.5556
+v_loss : 0.3621
+EPOCH ::: 4
+pi_loss: 0.5382
+v_loss : 0.3543
+EPOCH ::: 5
+pi_loss: 0.5288
+v_loss : 0.3495
+EPOCH ::: 6
+pi_loss: 0.5225
+v_loss : 0.3466
+EPOCH ::: 7
+pi_loss: 0.5183
+v_loss : 0.3447
+EPOCH ::: 8
+pi_loss: 0.5147
+v_loss : 0.3426
+EPOCH ::: 9
+pi_loss: 0.5119
+v_loss : 0.3415
+EPOCH ::: 10
+pi_loss: 0.5093
+v_loss : 0.3400
+开始与之前网络对抗。
+新网络胜场不足，不保存，回退到上一次参数
+对抗中新网络的胜场数目：20
+对抗中新网络的胜率：0.500000
+--------------------------------
+--------------------------------
+Iter  44:
+经验池长度:  20
+训练样本长度:921976
+Checkpoint Directory exists! 
+EPOCH ::: 1
+pi_loss: 0.7287
+v_loss : 0.4646
+EPOCH ::: 2
+pi_loss: 0.6195
+v_loss : 0.3925
+EPOCH ::: 3
+pi_loss: 0.5698
+v_loss : 0.3700
+EPOCH ::: 4
+pi_loss: 0.5467
+v_loss : 0.3597
+EPOCH ::: 5
+pi_loss: 0.5344
+v_loss : 0.3543
+EPOCH ::: 6
+pi_loss: 0.5271
+v_loss : 0.3502
+EPOCH ::: 7
+pi_loss: 0.5219
+v_loss : 0.3479
+EPOCH ::: 8
+pi_loss: 0.5172
+v_loss : 0.3460
+EPOCH ::: 9
+pi_loss: 0.5144
+v_loss : 0.3446
+EPOCH ::: 10
+pi_loss: 0.5112
+v_loss : 0.3428
+开始与之前网络对抗。
+新网络胜场不足，不保存，回退到上一次参数
+对抗中新网络的胜场数目：20
+对抗中新网络的胜率：0.500000
+--------------------------------
+--------------------------------
+Iter  45:
+经验池长度:  20
+训练样本长度:921976
+Checkpoint Directory exists! 
+EPOCH ::: 1
+pi_loss: 0.7722
+v_loss : 0.4933
+EPOCH ::: 2
+pi_loss: 0.6476
+v_loss : 0.4085
+EPOCH ::: 3
+pi_loss: 0.5859
+v_loss : 0.3804
+EPOCH ::: 4
+pi_loss: 0.5569
+v_loss : 0.3685
+EPOCH ::: 5
+pi_loss: 0.5413
+v_loss : 0.3622
+EPOCH ::: 6
+pi_loss: 0.5324
+v_loss : 0.3580
+EPOCH ::: 7
+pi_loss: 0.5255
+v_loss : 0.3546
+EPOCH ::: 8
+pi_loss: 0.5206
+v_loss : 0.3520
+EPOCH ::: 9
+pi_loss: 0.5171
+v_loss : 0.3502
+EPOCH ::: 10
+pi_loss: 0.5135
+v_loss : 0.3485
+开始与之前网络对抗。
+保存新网络
+Checkpoint Directory exists! 
+Checkpoint Directory exists! 
+对抗中新网络的胜场数目：27
+对抗中新网络的胜率：0.675000
+--------------------------------
+--------------------------------
+Iter  46:
+经验池长度:  20
+训练样本长度:921960
+Checkpoint Directory exists! 
+EPOCH ::: 1
+pi_loss: 0.5741
+v_loss : 0.3829
+EPOCH ::: 2
+pi_loss: 0.5335
+v_loss : 0.3617
+EPOCH ::: 3
+pi_loss: 0.5197
+v_loss : 0.3540
+EPOCH ::: 4
+pi_loss: 0.5133
+v_loss : 0.3502
+EPOCH ::: 5
+pi_loss: 0.5090
+v_loss : 0.3477
+EPOCH ::: 6
+pi_loss: 0.5058
+v_loss : 0.3464
+EPOCH ::: 7
+pi_loss: 0.5030
+v_loss : 0.3443
+EPOCH ::: 8
+pi_loss: 0.5009
+v_loss : 0.3439
+EPOCH ::: 9
+pi_loss: 0.4989
+v_loss : 0.3426
+EPOCH ::: 10
+pi_loss: 0.4969
+v_loss : 0.3420
+开始与之前网络对抗。
+保存新网络
+Checkpoint Directory exists! 
+Checkpoint Directory exists! 
+对抗中新网络的胜场数目：29
+对抗中新网络的胜率：0.725000
+--------------------------------
+--------------------------------
+Iter  47:
+经验池长度:  20
+训练样本长度:921984
+Checkpoint Directory exists! 
+EPOCH ::: 1
+pi_loss: 0.5635
+v_loss : 0.3684
+EPOCH ::: 2
+pi_loss: 0.5235
+v_loss : 0.3503
+EPOCH ::: 3
+pi_loss: 0.5092
+v_loss : 0.3435
+EPOCH ::: 4
+pi_loss: 0.5028
+v_loss : 0.3399
+EPOCH ::: 5
+pi_loss: 0.4992
+v_loss : 0.3384
+EPOCH ::: 6
+pi_loss: 0.4967
+v_loss : 0.3377
+EPOCH ::: 7
+pi_loss: 0.4947
+v_loss : 0.3366
+EPOCH ::: 8
+pi_loss: 0.4924
+v_loss : 0.3355
+EPOCH ::: 9
+pi_loss: 0.4910
+v_loss : 0.3344
+EPOCH ::: 10
+pi_loss: 0.4896
+v_loss : 0.3339
+开始与之前网络对抗。
+新网络胜场不足，不保存，回退到上一次参数
+对抗中新网络的胜场数目：19
+对抗中新网络的胜率：0.475000
+--------------------------------
+--------------------------------
+Iter  48:
+经验池长度:  20
+训练样本长度:921968
+Checkpoint Directory exists! 
+EPOCH ::: 1
+pi_loss: 0.6203
+v_loss : 0.3951
+EPOCH ::: 2
+pi_loss: 0.5534
+v_loss : 0.3606
+EPOCH ::: 3
+pi_loss: 0.5256
+v_loss : 0.3488
+EPOCH ::: 4
+pi_loss: 0.5142
+v_loss : 0.3435
+EPOCH ::: 5
+pi_loss: 0.5078
+v_loss : 0.3400
+EPOCH ::: 6
+pi_loss: 0.5036
+v_loss : 0.3384
+EPOCH ::: 7
+pi_loss: 0.5005
+v_loss : 0.3367
+EPOCH ::: 8
+pi_loss: 0.4978
+v_loss : 0.3358
+EPOCH ::: 9
+pi_loss: 0.4956
+v_loss : 0.3347
+EPOCH ::: 10
+pi_loss: 0.4939
+v_loss : 0.3338
+开始与之前网络对抗。
+新网络胜场不足，不保存，回退到上一次参数
+对抗中新网络的胜场数目：21
+对抗中新网络的胜率：0.525000
+--------------------------------
+--------------------------------
+Iter  49:
+经验池长度:  20
+训练样本长度:922024
+Checkpoint Directory exists! 
+EPOCH ::: 1
+pi_loss: 0.6728
+v_loss : 0.4234
+EPOCH ::: 2
+pi_loss: 0.5828
+v_loss : 0.3725
+EPOCH ::: 3
+pi_loss: 0.5422
+v_loss : 0.3554
+EPOCH ::: 4
+pi_loss: 0.5238
+v_loss : 0.3475
+EPOCH ::: 5
+pi_loss: 0.5149
+v_loss : 0.3433
+EPOCH ::: 6
+pi_loss: 0.5092
+v_loss : 0.3406
+EPOCH ::: 7
+pi_loss: 0.5043
+v_loss : 0.3380
+EPOCH ::: 8
+pi_loss: 0.5019
+v_loss : 0.3367
+EPOCH ::: 9
